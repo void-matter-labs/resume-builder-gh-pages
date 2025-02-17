@@ -1,0 +1,1 @@
+import{j as a}from"./index-CMj5c87M.js";function s({children:r,...e}){return a.jsx("form",{...e,className:["relative","pt-5","flex","flex-col","px-6","gap-4","shrink-0","left-[4rem]","w-[calc(100vw-4rem)]",e.className??""].join(" "),children:r})}export{s as F};
